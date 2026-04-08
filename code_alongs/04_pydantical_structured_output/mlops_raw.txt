@@ -1,0 +1,139 @@
+Vill du jobba i skärningspunkten mellan AI, data och teknik? Som MLOps Engineer lär du dig att bygga, driftsätta och optimera maskininlärningsmodeller i verkligheten. Utbildningen passar dig som har en teknisk bakgrund och vill ta nästa steg mot en framtidsroll där du gör avancerade AI-lösningar möjliga.
+Om programmet
+ 
+AI och maskininlärning används i allt fler branscher och behovet av specialister som kan ta modellerna från idé till drift växer snabbt. Som student får du spetskompetens inom maskininlärning och MLOps. Du arbetar med verktyg som TensorFlow och PyTorch och lär dig allt från CI/CD-pipelines och versionshantering till säkerhet och edge computing.
+ 
+Utbildningen bedrivs främst på svenska, men mycket kursmaterial är på engelska. Det gör att du förbereds för den internationella arbetsmiljö som präglar IT och AI-utveckling. Efter examen kan du självständigt driftsätta, optimera och förvalta ML-modeller, och bidra till nästa generations AI-lösningar.
+ 
+Fördelar med utbildningen
+ 
+Minst en fjärdedels LIA-praktik ( lärande i arbete )
+Utbildare kommer direkt från branschen
+Näringslivet är med och formar innehållet
+Goda möjligheter till jobb efter examen
+Karriärvägar
+ 
+Som MLOps Engineer blir du en nyckelperson som ser till att AI-lösningar fungerar i praktiken. Du är efterfrågad inom många branscher, från sjukvården, där AI används för att möta en åldrande befolkning, till företag som bygger datadrivna beslut med hjälp av Big Data. Behovet av din kompetens ökar i takt med att fler verksamheter vill skala upp sina AI-satsningar.
+ 
+Möjliga yrkesroller efter examen
+ 
+MLOps Engineer
+Stort behov av MLOps-kompetens
+ 
+AI utvecklas i rasande fart, men utan MLOps Engineers stannar projekten på idéstadiet. Företag behöver experter som kan implementera och integrera maskininlärningsmodeller i olika IT-miljöer, oavsett om det handlar om lokala system, molnplattformar eller edge-lösningar.
+ 
+Din kompetens gör att du kan driva AI-projekt hela vägen, vilket gör dig mycket attraktiv på arbetsmarknaden både i Sverige och internationellt.
+Visa mindre
+LIA-praktik
+ 
+Minst en fjärdedel av utbildningen består av Lärande i arbete (LIA) som är förlagd på ett företag. Här får du möjlighet att omsätta teorin i praktiska projekt tillsammans med handledare. Du bygger nätverk, skapar värdefulla kontakter och får chansen att testa yrkesrollen i verkliga situationer.
+ 
+Många studenter får sitt första jobb genom LIA.
+ 
+Här hittar du alla våra LIA-perioder
+Visa mindre
+Heltidsstudier
+ 
+Att läsa ett YH-program på plats i Solna innebär att du behöver lägga cirka 40 timmar i veckan på dina studier. Utbildningen är på heltid och du förväntas delta aktivt i projekt– och grupparbeten, föreläsningar och seminarier för att förbereda dina kunskaper för yrkesrollen
+Saknar du behörighet?
+ 
+Du kan söka till våra program även om du inte är helt behörig vid ansökningstillfället. Behöver du komplettera ett ämne eller repetera inför studierna kan du läsa en preparandkurs hos oss. Kursen avslutas med ett prov – och klarar du det blir du behörig. Kom ihåg att komplettera innan sista kompletteringsdag.
+ 
+Här kan du läsa mer om vilka preparandkurs som finns
+ 
+Här kan du läsa mer om vilka preparandkurser som finns
+Visa mindre
+Kursutbud
+Affärsmannaskap
+10 YH – poäng
+ 
+Kursens syfte är att den studerande ska förstå innebörden av affärsmannaskap kopplat till det personliga agerandet och ansvaret att bidra till varje verksamhets resultat och lönsamhet på både kort och lång sikt.
+AI-förstärkt kunskapsstrategi och hybrida AI-team
+20 YH-poäng 
+ 
+Kursens syfte är att de studerande ska förstå hur de kan integrera AI-verktyg i det dagliga arbetet, exempelvis för att omvandla stora volymer av data till komprimerade insikter. Kursen täcker även viktiga områden som ledarskap, projektledning och systemarkitektur med AI-komponenter.
+Databashantering
+25 YH-poäng
+ 
+Syftet är att introducera grunder i databasteknologier, traditionella SQL-databaser, moderna NoSQL-lösningar och specialiserade databaser som tidsserie-, vektor- och grafdatabaser. Målet är att förstå struktur och funktionalitet för databassystem
+samt implementering och optimering för effektiv driftsättning av maskininlärningsmodeller.
+Edge computing
+30 YH-poäng 
+ 
+Kursens syfte är att de studerande ska lära sig principer för edge computing, där dataanalys och beräkningar utförs nära datakällan istället för att förlita sig på centrala molnservrar.
+Examensarbete
+25 YH-poäng 
+ 
+Examensarbetet syftar till att de studerande ska fördjupa sina kunskaper utifrån en avgränsad problemformulering. De studerande ska kunna välja en lämplig metod för en avgränsad problemformulering.
+Kontinuerlig integration och leverans
+30 YH-poäng 
+ 
+Kursens syfte är att de studerande ska lära sig hur man kan effektivisera byggprocessen för ML-modeller och kod, inklusive
+att skapa en CI/CD-pipeline som automatiskt bygger, testar och validerar kodändringar. De studerande ska rustas med nödvändiga färdigheter för kontinuerlig integration och leverans av ML-modeller samt effektiv hantering av dessa i produktionsmiljöer
+LIA
+15o YH-poäng 
+ 
+Syftet med LIA är att de studerande ska komma ut i arbetslivet och, efter att inledningsvis ha fått en inblick i hur yrkesrollen fungerar i praktiken, börja arbeta aktivt med uppgifter samt på bästa sätt förberedas inför yrkeslivet.
+Linux-administration
+20 YH-poäng 
+ 
+Syftet med kursen är dels att ge de studerande de kunskaper och färdigheter som krävs för att installera och konfigurera Linuxbaserade operativsystem i drifts- och utvecklingsmiljöer. Kursen syftar vidare till att förbereda studenterna för den kommande kursen Linux avancerad.
+ 
+Maskininlärningsmodeller och algoritmer
+30 YH-poäng
+ 
+Syftet är att lära sig konstruktion och funktion av maskininlärningsmodeller, med fokus på hur algoritmer styr och tränar modeller genom olika metoder och verktyg. Målet är att få fördjupade kunskap om funktionaliteten i maskininlärningsmodeller samt hur effektivt implementera och optimera den i produktionsmiljö.
+Maskininlärningsramverk
+30 YH-poäng
+ 
+Kursens syfte är att de studerande ska lära sig om vanligt förekommande maskininlärningsramverk, såsom exempelvis TensorFlow, PyTorch, JAX och Scikit-learn.
+MLOps och molnplattformar
+30 YH-poäng 
+ 
+Syftet är att förstå DevOps och MLOps-principer, med infrastruktur som kod, molnplattformar som AWS, Google Cloud och Microsoft Azure, samt containerbaserade applikationsplattformar som Docker och Kubernetes. Målet är att effektivt distribuera ML-modeller i produktionsmiljöer.
+Python-programmering för MLOps
+35 YH-poäng
+ 
+Kursens syfte är att introducera de studerande för Pythonprogrammering, med dess syntax och grundläggande funktioner. De studerande ska lära sig hur Pythonprogrammering kan användas i relation till administration och anpassning av ML och AI. Målet är att de studerande ska ha tillräckliga färdigheter i Python för att kunna analysera, strukturera och driftsätta ML-modeller.
+Systemarkitektur och teknikstackar för MLOps
+15 YH-poäng 
+ 
+Kursens syfte är att utrusta de studerande med kunskaper om systemarkitekturer, teknikstackar samt ledande ramverk och
+lösningar inom ML och AI. Kursens mål är att utforska både historisk och samtida teknikutveckling samt få en djupare förståelse för de produkter och tjänster som är lämpliga för olika ML- och AI-lösningar. Därtill ska de studerande ha tillräckliga kunskaper om vad som
+diskuteras på marknaden, för att förstå vad de ska lyfta fram för kompetenser i rekryteringssammanhang.
+Säkerhet och integritet
+25 YH-poäng 
+ 
+Kursens syfte är att ge förståelse för dataintegritet, modellskydd och säkerhetsaspekter relaterade till arbete med ML-modeller. Kursen täcker avancerade verktyg och metoder för att skydda data och modeller samt säkerställa att de överensstämmer med lagar och regler.
+Övervakning och felhantering av ML-modeller
+25 YH-poäng
+ 
+Kursens syfte är att ge djup förståelse för de viktigaste aspekterna av att övervaka och hantera ML-modeller i produktionsmiljöer. Kursen utrustar de studerande med färdigheter för att säkerställa tillförlitlighet, skalbarhet och noggrannhet över tid.
+Visa mindre
+Kontakt
+Antagningen Nackademin
+Frågor kring ansökningsprocessen, behörighetskrav eller studieupplägget, kontakta antagningen för mer information.
+ 
+Mejla oss
+Tel: 08-466 60 00
+Utbildningsledare
+Utbildningsledare Camilla Al Aokite
+Camilla Al Aokite
+Kontakta mig om du har specifika frågor om kursinnehållet.
+
+
+Startdatum & plats
+Augusti 2026
+Stockholm, Solna
+Omfattning
+2,5 år
+Heltid
+500 YH-poäng
+Ansökningsperiod
+15 januari – 5 maj 2026
+Sista kompletteringsdag: 9 juni
+Antagningskrav
+Grundläggande behörighet: Engelska 5, Matematik 1 och Svenska 1
+Läs mer
+CSN & Finansiering
+Utbildningen är kostnadsfri och kvalificerar för CSN-studiemedel. Observera att kostnader för kurslitteratur tillkommer.
