@@ -1,0 +1,22 @@
+{
+  "education_name": "MLOps Engineer - AI och maskininlärning",
+  "program_description": "Utbildningen förbereder studenter att bygga, driftsätta och optimera maskininlärningsmodeller i verkligheten med fokus på tekniska och praktiska färdigheter. Studenter arbetar med verktyg som TensorFlow, PyTorch och Kubernetes, samt lär sig CI/CD-pipelines, säkerhet och edge computing. Uitbildningen kombinerar teori och praktik genom LIA-perioder och förbereder för internationella IT-rollers. Programmet pågår i 2,5 år (500 YH-poäng) och bedrivs främst på svenska med engelskt kursmaterial.",
+  "career_options": [
+    "MLOps Engineer"
+  ],
+  "courses": [
+    "AI-förstärkt kunskapsstrategi och hybrida AI-team",
+    "Databashantering",
+    "Edge computing",
+    "Kontinuerlig integration och leverans",
+    "Linux administration",
+    "Maskininlärningsmodeller och algoritmer",
+    "Maskininlärningsramverk",
+    "MLOps och molnplattformar",
+    "Python-programmering för MLOps",
+    "Systemarkitektur och teknikstackar för MLOps",
+    "Säkerhet och integritet",
+    "Övervakning och felhantering av ML-modeller"
+  ],
+  "length": 2.5
+}
