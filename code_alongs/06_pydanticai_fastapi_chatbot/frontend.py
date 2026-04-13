@@ -48,6 +48,8 @@ def handle_user_input():
             st.markdown(bot_response)
 
         st.session_state.messages.append({"role": "assistant", "contet": bot_response})
+
+        
 def layout():
     st.markdown("# Chat with NerdBot")
     st.markdown("NerdBot is a funny robot that can help you out with programming tasks. However he doesn't directly answer your question, usually he asks another question back.")
