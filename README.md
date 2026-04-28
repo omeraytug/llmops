@@ -10,6 +10,11 @@ This repository holds **code alongs** (notebooks and small assets) for **MLOps /
 | `pyproject.toml` / `uv.lock` | Python project metadata and locked dependencies |
 | `.env.example` | Template for environment variables (API keys) |
 
+## Related repos
+
+- **FastAPI LLMOps demo**: [omeraytug/fastapi_llmops_demo](https://github.com/omeraytug/fastapi_llmops_demo)
+- **RAG mini project**: [omeraytug/RAG-mlops25](https://github.com/omeraytug/RAG-mlops25)
+
 ## Prerequisites
 
 - **Python 3.13** (see `.python-version`)
